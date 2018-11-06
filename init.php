@@ -1,17 +1,17 @@
 <?php
 /*
-Plugin Name: Schools
-Description:
-Version: 1
-Author: sinetiks.com
-Author URI: http://sinetiks.com
+Plugin Name: Pay with ETH
+Description: 
+Version: 1.0
+Author: Hunglv
+Author URI: fb.com/nguoidungaxcd
 */
 // function to create the DB / Options / Defaults					
 function ss_options_install() {
 
     global $wpdb;
 
-    $table_name = $wpdb->prefix . "school";
+    $table_name = $wpdb->prefix . "eth";
     $charset_collate = $wpdb->get_charset_collate();
     $sql = "CREATE TABLE $table_name (
             `id` varchar(3) CHARACTER SET utf8 NOT NULL,
@@ -55,6 +55,9 @@ function sinetiks_schools_modifymenu() {
 	'sinetiks_schools_update'); //function
 }
 define('ROOTDIR', plugin_dir_path(__FILE__));
-require_once(ROOTDIR . 'schools-list.php');
-require_once(ROOTDIR . 'schools-create.php');
-require_once(ROOTDIR . 'schools-update.php');
+// require_once(ROOTDIR . 'ethereum.php');
+require 'ethereum.php';
+
+require_once(ROOTDIR . 'eth-list.php');
+require_once(ROOTDIR . 'eth-create.php');
+

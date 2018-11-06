@@ -1,13 +1,25 @@
 <?php
 
+
+
+
 function sinetiks_schools_create() {
     $id = $_POST["id"];
-    $name = $_POST["name"];
+    // $name = $_POST["name"];
+    $ethereum = new Ethereum('127.0.0.1', 8545);
+    $name = $ethereum->eth_accounts()[1];
+    var_dump($name);
+
+
     //insert
     if (isset($_POST['insert'])) {
         global $wpdb;
         $table_name = $wpdb->prefix . "school";
 
+
+        
+        // echo '<h1>'.$name.'</h1>';
+        // var_dump($T);
         $wpdb->insert(
                 $table_name, //table
                 array('id' => $id, 'name' => $name), //data

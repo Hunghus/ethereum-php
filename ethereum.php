@@ -2,9 +2,6 @@
 
 /**
  * Ethereum JSON-RPC interface
- *
- * See Ethereum API documentation for more information:
- * http://ethereum.gitbooks.io/frontier-guide/content/rpc.html
  */
 
 require_once(dirname(__FILE__).'/json-rpc.php');

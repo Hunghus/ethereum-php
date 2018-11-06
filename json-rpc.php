@@ -4,6 +4,7 @@
  * Simple JSON-RPC interface.
  */
  
+ 
 class JSON_RPC
 {
 	protected $host, $port, $version;

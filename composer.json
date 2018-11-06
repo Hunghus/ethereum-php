@@ -1,0 +1,11 @@
+{
+    "name": "1.0/pay-ethereum",
+    "description": "is plugin pay with ethereum",
+    "authors": [
+        {
+            "name": "hunghus",
+            "email": "levanhung_t60@hus.edu.vn"
+        }
+    ],
+    "require": {}
+}
