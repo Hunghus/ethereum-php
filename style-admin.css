@@ -28,20 +28,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>ethereum-php/json-rpc.php at master · Hunghus/ethereum-php</title>
-    <meta name="description" content="A PHP interface to the Ethereum API. Contribute to Hunghus/ethereum-php development by creating an account on GitHub.">
+  <title>wordpress-crud-example/style-admin.css at master · eduardoarandah/wordpress-crud-example</title>
+    <meta name="description" content="Basic example of wordpress plugin to select, update, insert and delete from database (CRUD) - eduardoarandah/wordpress-crud-example">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/22827002?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Hunghus/ethereum-php" /><meta property="og:url" content="https://github.com/Hunghus/ethereum-php" /><meta property="og:description" content="A PHP interface to the Ethereum API. Contribute to Hunghus/ethereum-php development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/4065733?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="eduardoarandah/wordpress-crud-example" /><meta property="og:url" content="https://github.com/eduardoarandah/wordpress-crud-example" /><meta property="og:description" content="Basic example of wordpress plugin to select, update, insert and delete from database (CRUD) - eduardoarandah/wordpress-crud-example" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzM2Mzg1Mzg3OjQ3ZDFlYzQzMzAyNmVhZDRlMzJlNDU0OTQ4Njc5NmNlMzU2NGRkNTcwYjI3YWIyMzUxYzk1MDI0OGE2ZWVkMTM=--67c9ee0041831dd8dce829e4073444b0e84288fd">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzM2Mzg1Mzg3OjI2MTBlNWYxN2MyNzExNmQ0ZmNmZDg2NWQ2MzkwY2NkY2I1Yzc5NjkzY2RiOTllNWVlYjJmZTQ1NDVmZmFiZmQ=--4139fec2f1366e1b8cff83e5e84fd15fbe5e2400">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D18A:3059:67CD53:91DE62:5BE1C214" data-pjax-transient>
+  <meta name="request-id" content="D18A:3059:67CAE2:91DAC9:5BE1C201" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D18A:3059:67CD53:91DE62:5BE1C214" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="22827002" /><meta name="octolytics-actor-login" content="Hunghus" /><meta name="octolytics-actor-hash" content="cdac2799d22cd63d5092134686ab7bb31a0aeec2117fb6a6c197be462e9c8f4d" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D18A:3059:67CAE2:91DAC9:5BE1C201" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="22827002" /><meta name="octolytics-actor-login" content="Hunghus" /><meta name="octolytics-actor-hash" content="cdac2799d22cd63d5092134686ab7bb31a0aeec2117fb6a6c197be462e9c8f4d" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="Hunghus">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NWI2YWExOTcwY2Q3NjZhOGY4OWY2NjY5YmZmNmYxMDRjOTdiMmFkZjcxZmQxODUzZDJhMTAxNTVlMzlhM2NkY3x7InJlbW90ZV9hZGRyZXNzIjoiMjIyLjI1NC4zMC4xMDciLCJyZXF1ZXN0X2lkIjoiRDE4QTozMDU5OjY3Q0Q1Mzo5MURFNjI6NUJFMUMyMTQiLCJ0aW1lc3RhbXAiOjE1NDE1MjE5NDUsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="NTg2NjM4MWNmMWZjMWQ5ZTNhODNkYmQ4MmFjZTFiNmVlOWUwMWI4NGY0YzM1NGM5ZDQ2OTA3OTFkMDEyYzU0Y3x7InJlbW90ZV9hZGRyZXNzIjoiMjIyLjI1NC4zMC4xMDciLCJyZXF1ZXN0X2lkIjoiRDE4QTozMDU5OjY3Q0FFMjo5MURBQzk6NUJFMUMyMDEiLCJ0aW1lc3RhbXAiOjE1NDE1MjE5MjYsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT,DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,SAVED_THREADS,SUGGESTED_CHANGES_UX_TEST">
 
@@ -80,14 +80,14 @@
   <meta http-equiv="x-pjax-version" content="e1a9b640623cc8e6fbae2dbfda252d5d">
   
 
-      <link href="https://github.com/Hunghus/ethereum-php/commits/master.atom" rel="alternate" title="Recent Commits to ethereum-php:master" type="application/atom+xml">
+      <link href="https://github.com/eduardoarandah/wordpress-crud-example/commits/master.atom" rel="alternate" title="Recent Commits to wordpress-crud-example:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/Hunghus/ethereum-php git https://github.com/Hunghus/ethereum-php.git">
+  <meta name="go-import" content="github.com/eduardoarandah/wordpress-crud-example git https://github.com/eduardoarandah/wordpress-crud-example.git">
 
-  <meta name="octolytics-dimension-user_id" content="22827002" /><meta name="octolytics-dimension-user_login" content="Hunghus" /><meta name="octolytics-dimension-repository_id" content="153758565" /><meta name="octolytics-dimension-repository_nwo" content="Hunghus/ethereum-php" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="42141732" /><meta name="octolytics-dimension-repository_parent_nwo" content="btelle/ethereum-php" /><meta name="octolytics-dimension-repository_network_root_id" content="42141732" /><meta name="octolytics-dimension-repository_network_root_nwo" content="btelle/ethereum-php" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="4065733" /><meta name="octolytics-dimension-user_login" content="eduardoarandah" /><meta name="octolytics-dimension-repository_id" content="58592273" /><meta name="octolytics-dimension-repository_nwo" content="eduardoarandah/wordpress-crud-example" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="58592273" /><meta name="octolytics-dimension-repository_network_root_nwo" content="eduardoarandah/wordpress-crud-example" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/Hunghus/ethereum-php/blob/master/json-rpc.php" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/eduardoarandah/wordpress-crud-example/blob/master/sinetiks-schools/style-admin.css" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -143,7 +143,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="153758565" data-scoped-search-url="/Hunghus/ethereum-php/search" data-unscoped-search-url="/search" action="/Hunghus/ethereum-php/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="58592273" data-scoped-search-url="/eduardoarandah/wordpress-crud-example/search" data-unscoped-search-url="/search" action="/eduardoarandah/wordpress-crud-example/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -156,7 +156,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Txr6oSWfW/nNvLxVe8CfCywljNxQwWmr42xK+Daq4sYQOpt/2vBJYBSE+CCJZ0yWf1PSbNUZWF3q8ImeOAqCzg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=H3xh9z6W5/TCDYgpObSa2I6vgSC06ymR3+mCgUEogtBAXAApwfn1bRs1zFzLE0lF3dnfkDEzGGfWdUHnT4ji2A=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -274,6 +274,13 @@
   </a>
 
 
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="eduardoarandah/wordpress-crud-example">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/eduardoarandah/wordpress-crud-example/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
 
 
       </details-menu>
@@ -303,7 +310,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3NyCnmib7kVnJB24KY2MaO827qiJii911eqcRPTuQ7jslBLv588TUYp8wE3Bd+j/XKeQXe3naAL6IauQD/7g7w==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="u5RXI6Jcg2t81yWH/YpahLNuQrfYg93GUQWBvfdZfaKL3MdSLQh+f5GP+HIVcD4TAP88QrzumrF+zrZpDEne9Q==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -316,7 +323,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XMdmh4xDxICIKXaFnrB9QchGhEH4WP4OX17kKQ3+sWRsj/b2Axc5lGVxq3B2ShnWe9f6tJw1uXlwldP99u4SMw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BupLPnSYz8F4cpFjL/8yN35V0byGJoLrj2VbRRBPVQc2ottP+8wy1ZUqTJbHBVagzcSvSeJLxZygrmyR61/2UA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -354,7 +361,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZlOR+kHU8+wscV5cdXi5Tz2YLmQjlbcA0T14R4zNK9Awkr3hKMrGltgOFaQkw4D1Lj6Qle0jGUj7eX+g/QkUqQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="153758565" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yXuCMAEIgRUiY6TV1Fm1lkYLbTvdGaHR436zTLERw5Gfuq4raBa0b9Yc7y2F4owsVa3TyhOvD5nJOrSrwNX86A==" />      <input type="hidden" name="repository_id" id="repository_id" value="58592273" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -407,44 +414,44 @@
         </details-menu>
       </details>
       <a class="social-count js-social-count"
-        href="/Hunghus/ethereum-php/watchers"
-        aria-label="0 users are watching this repository">
-        0
+        href="/eduardoarandah/wordpress-crud-example/watchers"
+        aria-label="8 users are watching this repository">
+        8
       </a>
 </form>
   </li>
 
   <li>
     
-  <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Hunghus/ethereum-php/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0FCWrjc1R9wsL3L9qKj32jTBgcoj2NwDyZGLAa4/0i7FqJWqDKNBocSHtkgwkdUNUza7bJWssojBtw9YNllneQ==" />
+  <div class="js-toggler-container js-social-container starring-container on">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/eduardoarandah/wordpress-crud-example/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XxZzGO69rHq5a9YERuNEUxA/Ym1mKxsAoswk6gPyPxQynFTnrNENjQ7BvSodAIDi6M6rbs8etiASFukfv1UBrw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar Hunghus/ethereum-php"
+        aria-label="Unstar this repository" title="Unstar eduardoarandah/wordpress-crud-example"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/Hunghus/ethereum-php/stargazers"
-           aria-label="0 users starred this repository">
-          0
+        <a class="social-count js-social-count" href="/eduardoarandah/wordpress-crud-example/stargazers"
+           aria-label="49 users starred this repository">
+          49
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Hunghus/ethereum-php/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kLBh6pdCyewI28wF9b3x0BSHIIqi/ODQjBBiqKnbNYI8+mHToSj7teEvhCHqwo1XbOnIlb49XSDttJ8TcaU7Zw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/eduardoarandah/wordpress-crud-example/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lUHfU5lezzslilWDXjCqMAWKk+i3uAKnFEPehE78w5KtsPam4EaNShCGWd/7K22IJDapvXcDCeA+Io+Teb1F5w==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star Hunghus/ethereum-php"
+        aria-label="Star this repository" title="Star eduardoarandah/wordpress-crud-example"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/Hunghus/ethereum-php/stargazers"
-           aria-label="0 users starred this repository">
-          0
+        <a class="social-count js-social-count" href="/eduardoarandah/wordpress-crud-example/stargazers"
+           aria-label="49 users starred this repository">
+          49
         </a>
 </form>  </div>
 
@@ -452,9 +459,9 @@
 
   <li>
           <details class="details-reset details-overlay details-overlay-dark d-inline-block float-left"
-            data-deferred-details-content-url="/Hunghus/ethereum-php/fork?fragment=1">
+            data-deferred-details-content-url="/eduardoarandah/wordpress-crud-example/fork?fragment=1">
             <summary class="btn btn-sm btn-with-count"
-              title="Fork your own copy of Hunghus/ethereum-php to your account"
+              title="Fork your own copy of eduardoarandah/wordpress-crud-example to your account"
               data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
               <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
@@ -464,33 +471,30 @@
                 <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
                   <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
                 </button>
-                <h3 class="Box-title">Fork ethereum-php</h3>
+                <h3 class="Box-title">Fork wordpress-crud-example</h3>
               </div>
               <div class="overflow-auto text-center">
                 <include-fragment>
                   <div class="octocat-spinner my-3" aria-label="Loading..."></div>
-                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/Hunghus/ethereum-php/fork">the fork page</a> directly.</p>
+                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/eduardoarandah/wordpress-crud-example/fork">the fork page</a> directly.</p>
                 </include-fragment>
               </div>
             </details-dialog>
           </details>
 
-    <a href="/Hunghus/ethereum-php/network/members" class="social-count"
-       aria-label="89 users forked this repository">
-      89
+    <a href="/eduardoarandah/wordpress-crud-example/network/members" class="social-count"
+       aria-label="46 users forked this repository">
+      46
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
-  <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=22827002" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Hunghus">Hunghus</a></span><!--
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=4065733" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/eduardoarandah">eduardoarandah</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/Hunghus/ethereum-php">ethereum-php</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/eduardoarandah/wordpress-crud-example">wordpress-crud-example</a></strong>
 
-    <span class="fork-flag">
-      <span class="text">forked from <a href="/btelle/ethereum-php">btelle/ethereum-php</a></span>
-    </span>
 </h1>
 
     </div>
@@ -502,15 +506,22 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /Hunghus/ethereum-php" href="/Hunghus/ethereum-php">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /eduardoarandah/wordpress-crud-example" href="/eduardoarandah/wordpress-crud-example">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /eduardoarandah/wordpress-crud-example/issues" href="/eduardoarandah/wordpress-crud-example/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /Hunghus/ethereum-php/pulls" href="/Hunghus/ethereum-php/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /eduardoarandah/wordpress-crud-example/pulls" href="/eduardoarandah/wordpress-crud-example/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -518,24 +529,21 @@
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /Hunghus/ethereum-php/projects" href="/Hunghus/ethereum-php/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /eduardoarandah/wordpress-crud-example/projects" href="/eduardoarandah/wordpress-crud-example/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /Hunghus/ethereum-php/wiki" href="/Hunghus/ethereum-php/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /eduardoarandah/wordpress-crud-example/wiki" href="/eduardoarandah/wordpress-crud-example/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts /Hunghus/ethereum-php/pulse" href="/Hunghus/ethereum-php/pulse">
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts /eduardoarandah/wordpress-crud-example/pulse" href="/eduardoarandah/wordpress-crud-example/pulse">
     <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /Hunghus/ethereum-php/settings" href="/Hunghus/ethereum-php/settings">
-      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
-      Settings
-</a>
+
 </nav>
 
 
@@ -547,9 +555,9 @@
     
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Hunghus/ethereum-php/blob/5a65c6166f139e211e080b2beae69c0313c82a90/json-rpc.php">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/eduardoarandah/wordpress-crud-example/blob/3346eda8e243830e9676cf4e3747af47bd46c185/sinetiks-schools/style-admin.css">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:6367d1ea49ff90f2c2506285943f4370 -->
+    <!-- blob contrib key: blob_contributors:v21:286d62c94a862bb3e72c0cbee6747ba8 -->
 
     
 
@@ -573,12 +581,12 @@
 
       <div class="select-menu-filters">
         <div class="select-menu-text-filter">
-          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
         </div>
         <div class="select-menu-tabs">
           <ul>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
             </li>
             <li class="select-menu-tab">
               <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
@@ -593,7 +601,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/Hunghus/ethereum-php/blob/master/json-rpc.php"
+               href="/eduardoarandah/wordpress-crud-example/blob/master/sinetiks-schools/style-admin.css"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -604,19 +612,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="select-menu-new-item-form js-new-item-form" action="/Hunghus/ethereum-php/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YIywz0lCwGcpDl948Lm1nsPR7xZp2zstehplr2ArP8nhXPlhXiM7VU6dhfKtt0fmtEHq9EGTU5x1VpT6sdW3Sg==" />
-            <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path_binary" id="path_binary" value="anNvbi1ycGMucGhw">
-
-            <button type="submit" class="width-full select-menu-item js-navigation-open js-navigation-item">
-              <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-              <div class="select-menu-item-text">
-                <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-                <span class="description">from ‘master’</span>
-              </div>
-            </button>
-</form>
+          <div class="select-menu-no-results">Nothing to show</div>
       </div>
 
       <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
@@ -633,7 +629,7 @@
 </div>
 
       <div class="BtnGroup float-right">
-        <a href="/Hunghus/ethereum-php/find/master"
+        <a href="/eduardoarandah/wordpress-crud-example/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -644,12 +640,12 @@
         </clipboard-copy>
       </div>
       <div id="blob-path" class="breadcrumb">
-        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Hunghus/ethereum-php"><span>ethereum-php</span></a></span></span><span class="separator">/</span><strong class="final-path">json-rpc.php</strong>
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/eduardoarandah/wordpress-crud-example"><span>wordpress-crud-example</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/eduardoarandah/wordpress-crud-example/tree/master/sinetiks-schools"><span>sinetiks-schools</span></a></span><span class="separator">/</span><strong class="final-path">style-admin.css</strong>
       </div>
     </div>
 
 
-    <include-fragment src="/Hunghus/ethereum-php/contributors/master/json-rpc.php" class="commit-tease commit-loader">
+    <include-fragment src="/eduardoarandah/wordpress-crud-example/contributors/master/sinetiks-schools/style-admin.css" class="commit-tease commit-loader">
       <div>
         Fetching contributors&hellip;
       </div>
@@ -666,333 +662,55 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Hunghus/ethereum-php/raw/master/json-rpc.php">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/Hunghus/ethereum-php/blame/master/json-rpc.php">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Hunghus/ethereum-php/commits/master/json-rpc.php">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/eduardoarandah/wordpress-crud-example/raw/master/sinetiks-schools/style-admin.css">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/eduardoarandah/wordpress-crud-example/blame/master/sinetiks-schools/style-admin.css">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/eduardoarandah/wordpress-crud-example/commits/master/sinetiks-schools/style-admin.css">History</a>
     </div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Hunghus/ethereum-php/edit/master/json-rpc.php" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AOOj6LRgSbbQsASUB93ed6JP1L4gwHZSsGWyQeXE5HBIARQSBrpAqQStdtGQ6tM+eJlImye/wS5Pq+TicISbvg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/eduardoarandah/wordpress-crud-example/edit/master/sinetiks-schools/style-admin.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HpZL+mkWbYnZ9loHiiJS/UfezGStT2KHJRuaYbdN0YD4Q+XctYNjMUzocxYhdwGTE8J8NhTlC2GoSOsTAu6RwQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Hunghus/ethereum-php/delete/master/json-rpc.php" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hW+mb2RpDrj2dKmk7yE78SBciMfrlmGpHNFio1D0rW1+d9jDd2HpNlzwplSE4lv9RG8yOhscXG+SLdXxXfzwdQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/eduardoarandah/wordpress-crud-example/delete/master/sinetiks-schools/style-admin.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ltlcHrscNypb4DyNwUzLqiA7+3qlK5nECYG0KZL0wvfg5MwlSXiYw34muf50tNGdBjlGOeF5R9fQo4dSa+KBQQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Delete this file" data-disable-with>
+            aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
           </button>
 </form>  </div>
 
   <div class="file-info">
-      <span class="file-mode" title="File mode">executable file</span>
+      5 lines (5 sloc)
       <span class="file-info-divider"></span>
-      74 lines (62 sloc)
-      <span class="file-info-divider"></span>
-    1.6 KB
+    135 Bytes
   </div>
 </div>
 
       
 
-  <div itemprop="text" class="blob-wrapper data type-php ">
+  <div itemprop="text" class="blob-wrapper data type-css ">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-pse">&lt;?php</span><span class="pl-s1"></span></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.widefat</span> {<span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">auto</span>;}</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.ss-list-width</span> {<span class="pl-c1"><span class="pl-c1">min-width</span></span>:<span class="pl-c1">10<span class="pl-k">%</span></span>}</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"><span class="pl-c">/**</span></span></span></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.ss-form-width</span> {<span class="pl-c1"><span class="pl-c1">width</span></span>:<span class="pl-c1">100<span class="pl-k">%</span></span>}</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"> * Simple JSON-RPC interface.</span></span></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.ss-th-width</span> {<span class="pl-c1"><span class="pl-c1">width</span></span>:<span class="pl-c1">25<span class="pl-k">%</span></span>}</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-c"> <span class="pl-c">*/</span></span></span></td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"> </span></td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">class</span> <span class="pl-en">JSON_RPC</span></span></td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">{</span></td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	<span class="pl-k">protected</span> <span class="pl-smi">$host</span>, <span class="pl-smi">$port</span>, <span class="pl-smi">$version</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	<span class="pl-k">protected</span> <span class="pl-smi">$id</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	</span></td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	<span class="pl-k">function</span> <span class="pl-c1">__construct</span>(<span class="pl-smi">$host</span>, <span class="pl-smi">$port</span>, <span class="pl-smi">$version</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">&quot;</span>2.0<span class="pl-pds">&quot;</span></span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	{</span></td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">host</span> <span class="pl-k">=</span> <span class="pl-smi">$host</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">port</span> <span class="pl-k">=</span> <span class="pl-smi">$port</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">version</span> <span class="pl-k">=</span> <span class="pl-smi">$version</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	}</span></td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	</span></td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	<span class="pl-k">function</span> <span class="pl-en">request</span>(<span class="pl-smi">$method</span>, <span class="pl-smi">$params</span><span class="pl-k">=</span><span class="pl-c1">array</span>())</span></td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	{</span></td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$data</span> <span class="pl-k">=</span> <span class="pl-c1">array</span>();</span></td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$data</span>[<span class="pl-s"><span class="pl-pds">&#39;</span>jsonrpc<span class="pl-pds">&#39;</span></span>] <span class="pl-k">=</span> <span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">version</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$data</span>[<span class="pl-s"><span class="pl-pds">&#39;</span>id<span class="pl-pds">&#39;</span></span>] <span class="pl-k">=</span> <span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">id</span><span class="pl-k">++</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$data</span>[<span class="pl-s"><span class="pl-pds">&#39;</span>method<span class="pl-pds">&#39;</span></span>] <span class="pl-k">=</span> <span class="pl-smi">$method</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$data</span>[<span class="pl-s"><span class="pl-pds">&#39;</span>params<span class="pl-pds">&#39;</span></span>] <span class="pl-k">=</span> <span class="pl-smi">$params</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		</span></td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$ch</span> <span class="pl-k">=</span> <span class="pl-c1">curl_init</span>();</span></td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		</span></td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_URL</span>, <span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">host</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_PORT</span>, <span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">port</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_RETURNTRANSFER</span>, <span class="pl-c1">TRUE</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_HTTPHEADER</span>, <span class="pl-c1">array</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>Content-Type: application/json<span class="pl-pds">&#39;</span></span>)); </span></td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_POST</span>, <span class="pl-c1">TRUE</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-c1">curl_setopt</span>(<span class="pl-smi">$ch</span>, <span class="pl-c1">CURLOPT_POSTFIELDS</span>, <span class="pl-c1">json_encode</span>(<span class="pl-smi">$data</span>));</span></td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		</span></td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-smi">$ret</span> <span class="pl-k">=</span> <span class="pl-c1">curl_exec</span>(<span class="pl-smi">$ch</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		</span></td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-k">if</span>(<span class="pl-smi">$ret</span> <span class="pl-k">!</span><span class="pl-k">==</span> <span class="pl-c1">FALSE</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		{</span></td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			<span class="pl-smi">$formatted</span> <span class="pl-k">=</span> <span class="pl-smi">$this</span><span class="pl-k">-&gt;</span>format_response(<span class="pl-smi">$ret</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			</span></td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			<span class="pl-k">if</span>(<span class="pl-c1">isset</span>(<span class="pl-smi">$formatted</span><span class="pl-k">-&gt;</span><span class="pl-smi">error</span>))</span></td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			{</span></td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">				<span class="pl-k">throw</span> <span class="pl-k">new</span> <span class="pl-c1">RPCException</span>(<span class="pl-smi">$formatted</span><span class="pl-k">-&gt;</span><span class="pl-smi">error</span><span class="pl-k">-&gt;</span><span class="pl-smi">message</span>, <span class="pl-smi">$formatted</span><span class="pl-k">-&gt;</span><span class="pl-smi">error</span><span class="pl-k">-&gt;</span><span class="pl-smi">code</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			}</span></td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			<span class="pl-k">else</span></span></td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			{</span></td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">				<span class="pl-k">return</span> <span class="pl-smi">$formatted</span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			}</span></td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		}</span></td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-k">else</span></span></td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		{</span></td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">			<span class="pl-k">throw</span> <span class="pl-k">new</span> <span class="pl-c1">RPCException</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>Server did not respond<span class="pl-pds">&quot;</span></span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		}</span></td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	}</span></td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	</span></td>
-      </tr>
-      <tr>
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	<span class="pl-k">function</span> <span class="pl-en">format_response</span>(<span class="pl-smi">$response</span>)</span></td>
-      </tr>
-      <tr>
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	{</span></td>
-      </tr>
-      <tr>
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">		<span class="pl-k">return</span> <span class="pl-k">@</span><span class="pl-c1">json_decode</span>(<span class="pl-smi">$response</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">	}</span></td>
-      </tr>
-      <tr>
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">}</span></td>
-      </tr>
-      <tr>
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"></span></td>
-      </tr>
-      <tr>
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-s1"><span class="pl-k">class</span> <span class="pl-en">RPCException</span> <span class="pl-k">extends</span> <span class="pl-c1">Exception</span></span></td>
-      </tr>
-      <tr>
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">{</span></td>
-      </tr>
-      <tr>
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    <span class="pl-k">public</span> <span class="pl-k">function</span> <span class="pl-c1">__construct</span>(<span class="pl-smi">$message</span>, <span class="pl-smi">$code</span> <span class="pl-k">=</span> <span class="pl-c1">0</span>, <span class="pl-c1">Exception</span> <span class="pl-smi">$previous</span> <span class="pl-k">=</span> <span class="pl-c1">null</span>) </span></td>
-      </tr>
-      <tr>
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    {</span></td>
-      </tr>
-      <tr>
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        <span class="pl-k">parent</span><span class="pl-k">::</span>__construct(<span class="pl-smi">$message</span>, <span class="pl-smi">$code</span>, <span class="pl-smi">$previous</span>);</span></td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    }</span></td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    </span></td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    <span class="pl-k">public</span> <span class="pl-k">function</span> <span class="pl-en">__toString</span>() </span></td>
-      </tr>
-      <tr>
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    {</span></td>
-      </tr>
-      <tr>
-        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">        <span class="pl-k">return</span> <span class="pl-c1">__CLASS__</span> <span class="pl-k">.</span> <span class="pl-s"><span class="pl-pds">&quot;</span>: <span class="pl-pds">&quot;</span></span><span class="pl-k">.</span>((<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">code</span> <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>)?<span class="pl-s"><span class="pl-pds">&quot;</span>[{<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">code</span>}]:<span class="pl-pds">&quot;</span></span>:<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)<span class="pl-k">.</span><span class="pl-s"><span class="pl-pds">&quot;</span> {<span class="pl-smi">$this</span><span class="pl-k">-&gt;</span><span class="pl-smi">message</span>}<span class="pl-cce">\n</span><span class="pl-pds">&quot;</span></span>;</span></td>
-      </tr>
-      <tr>
-        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">    }</span></td>
-      </tr>
-      <tr>
-        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line"><span class="pl-s1">}</span></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.ss-field-width</span> {<span class="pl-c1"><span class="pl-c1">width</span></span>:<span class="pl-c1">75<span class="pl-k">%</span></span>}</td>
       </tr>
 </table>
 
@@ -1004,7 +722,8 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Hunghus/ethereum-php/blame/5a65c6166f139e211e080b2beae69c0313c82a90/json-rpc.php">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/eduardoarandah/wordpress-crud-example/blame/3346eda8e243830e9676cf4e3747af47bd46c185/sinetiks-schools/style-admin.css">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/eduardoarandah/wordpress-crud-example/issues/new">Open new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -1038,7 +757,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.20013s from unicorn-857f7fcf45-brclc">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.21410s from unicorn-554c98548c-t44v6">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
